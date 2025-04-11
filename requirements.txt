@@ -1,0 +1,6 @@
+google-adk==0.1.0
+litellm==1.65.7
+weave==0.51.42
+python-dotenv
+pyowm==3.3.0
+newsapi-python==0.2.7
